@@ -1,5 +1,5 @@
 {
-  "name": "chesslib-es6",
+  "name": "chesslibes6",
   "version": "0.1.0",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
